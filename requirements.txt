@@ -11,3 +11,4 @@ markupsafe==2.0.1
 wtforms==2.2.1
 pyodbc
 requests
+gunicorn
